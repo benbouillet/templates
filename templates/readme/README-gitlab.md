@@ -36,10 +36,6 @@ Please pay attention to this important note.<br>
 
 ## Table of Content
 
-* [Introduction](#introduction)
-* [Usage](#usage)
-* [Project Documentation](#project-documentation)
-
 * [About The Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
