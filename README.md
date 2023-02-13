@@ -2,4 +2,6 @@
 
 # Templates
 ## CI/CD
-* [Release Notes](./release-notes/release-notes.md)
+* [Readme](./templates/readme)
+* [Release Notes](./templates/release-notes/release-notes.md)
+* [Commits](./templates/commits/README.md)
